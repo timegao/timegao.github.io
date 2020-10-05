@@ -39,6 +39,10 @@
   justify-content: space-around;
 }
 
+.icon {
+  z-index: 20;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
