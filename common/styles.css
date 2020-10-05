@@ -88,23 +88,23 @@ a:hover {
     flex-wrap: wrap;
     display: flex;
   }
-  h1 .name {
+  /* h1 .name {
     font-size: 10px;
   }
   h5 .info {
     font-size: 5px;
-  }
+  } */
 }
 @media screen and (max-width: 600px) {
   .jumbotron {
     margin: 0px auto 0px;
   }
-  h1 .name {
+  /* h1 .name {
     font-size: 20px;
   }
   h5 .info {
     font-size: 10px;
-  }
+  } */
 }
 
 .scrolldown {
