@@ -88,6 +88,7 @@ a:hover {
     flex-wrap: wrap;
     display: flex;
   }
+  /* Unable to change font-size */
   /* h1 .name {
     font-size: 10px;
   }
@@ -99,6 +100,7 @@ a:hover {
   .jumbotron {
     margin: 0px auto 0px;
   }
+  /* Unable to change font-size */
   /* h1 .name {
     font-size: 20px;
   }
